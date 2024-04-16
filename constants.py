@@ -1,0 +1,9 @@
+EXCEL_PATH = '/Users/bryanarmijos/Projects/Python/BLSSpainVisaWebScraping/citas_espana.xlsx'
+URL_BLS_LOGIN_QUITO = 'https://ecuador.blsspainvisa.com/quito/book_appointment.php'
+URL_BLS_LOGIN_GUAYAQUIL = 'https://ecuador.blsspainvisa.com/guayaquil/book_appointment.php'
+URL_BLS_APPOINTMENT_QUITO = 'https://ecuador.blsspainvisa.com/quito/appointment.php'
+URL_BLS_APPOINTMENT_GUAYAQUIL = 'https://ecuador.blsspainvisa.com/guayaquil/appointment.php'
+CHROME_DRIVER_PATH = '/Users/bryanarmijos/Projects/Python/chromedriver'
+QUITO = "QUITO"
+GUAYAQUIL = "GUAYAQUIL"
+PENDING = "PENDIENTE"
