@@ -1,0 +1,13 @@
+# Compiled source #
+###################
+citas_espana.xlsx
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Local test files #
+####################
+test.py
+sandbox_html.html
