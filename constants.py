@@ -1,4 +1,4 @@
-EXCEL_PATH = '/Users/bryanarmijos/Projects/Python/BLSSpainVisaWebScraping/citas_espana.xlsx'
+EXCEL_PATH = '/Users/bryanarmijos/Projects/Python/selenium_web_scraping/citas_espana.xlsx'
 URL_BLS_LOGIN_QUITO = 'https://ecuador.blsspainvisa.com/quito/book_appointment.php'
 URL_BLS_LOGIN_GUAYAQUIL = 'https://ecuador.blsspainvisa.com/guayaquil/book_appointment.php'
 URL_BLS_APPOINTMENT_QUITO = 'https://ecuador.blsspainvisa.com/quito/appointment.php'
